@@ -1,0 +1,1 @@
+A simple project to demonstrate basic Python concepts including printing, date/time handling, and utility functions for arithmetic operations.
